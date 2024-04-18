@@ -27,7 +27,7 @@
 ###
 
 <h2>📝 About me</h2>
-<p>My name is Guilherme Gomes de Brites, an 18 year old enthusiast who is immersed in the world of technology and innovation. I am currently studying Computer Science, an area that fascinates me and motivates me to explore the frontiers of computing and its applications in our daily lives.
+<p>My name is Guilherme Gomes de Brites, an 19 year old enthusiast who is immersed in the world of technology and innovation. I am currently studying Computer Science, an area that fascinates me and motivates me to explore the frontiers of computing and its applications in our daily lives.
 
 My journey into technology started at an early age, when I was still a child. I have always been curious and intrigued by the workings of things around me, especially when it comes to complex systems. This innate curiosity led me to delve into the world of computing, where I could begin to unravel the mysteries behind the codes and algorithms that drive the modern world.
 

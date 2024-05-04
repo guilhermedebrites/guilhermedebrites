@@ -27,41 +27,44 @@
 ###
 
 <h2>📝 About me</h2>
-<p>My name is Guilherme Gomes de Brites, an 19 year old enthusiast who is immersed in the world of technology and innovation. I am currently studying Computer Science, an area that fascinates me and motivates me to explore the frontiers of computing and its applications in our daily lives.
+<p>👋 Hello, I'm Guilherme Gomes de Brites, a 19-year-old technology and innovation enthusiast. I am currently pursuing a Bachelor's degree in Computer Science at PUC Minas, with an expected graduation in December 2027. Passionate about solving complex problems through programming, I have experience in back-end development, especially using Java and Spring Boot.</p>
 
-My journey into technology started at an early age, when I was still a child. I have always been curious and intrigued by the workings of things around me, especially when it comes to complex systems. This innate curiosity led me to delve into the world of computing, where I could begin to unravel the mysteries behind the codes and algorithms that drive the modern world.
+<p>🌐 I work as a Back-End Development Intern at Inter in Belo Horizonte, and previously I was a developer at eduCAT Tecnologia. I am constantly looking for new challenges and opportunities to apply and expand my skills in REST APIs and other emerging technologies.</p>
 
-Over time, my passion for solving problems using code has only grown. Every technological challenge has become an opportunity to learn, grow and apply innovative solutions. Through the study of Computer Science, I have been exploring deep concepts ranging from programming to artificial intelligence and beyond.
+<p>📚 In addition to my practical experience, I hold several certifications in programming and web development, including Java, Spring Boot, Python, Django, JavaScript, Nodejs, and RESTful APIs. I am fluent in Portuguese and proficient in English, allowing me to collaborate in multicultural environments and broaden my professional horizons.</p>
 
-I believe that technology has the power to transform the world and society in surprising ways. I am in a constant search for knowledge and improvement, always looking to expand my technical skills and my understanding of emerging trends in the field of technology.
-
-I am excited about the possibilities that the technological future holds and determined to contribute to this ever-evolving landscape.</p>
+<p>🔍 I am excited about the possibilities that the future of technology holds and am determined to contribute to an increasingly innovative and interconnected world. Let's connect!</p>
 
 ###
 
 <h2>Hard Skills</h2>
-<p>🚀 FRONT-END</p>
+
+<p>🚀 BACK-END</p>
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
 ###
 
-<p>🚀 BACK-END</p>
+<p>🚀 FRONT-END</p>
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
+
+###
+
+<p>🔒 Security Platforms</p>
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
+</div>
+
+###
 
 ###
 

@@ -16,13 +16,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=guilhermedebrites" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedebrites&layout=compact&theme=dracula" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2>📝 About me</h2>
 <p>👋 Hello, I'm Guilherme Gomes de Brites, a 20-year-old technology and innovation enthusiast. I am currently pursuing a Bachelor's degree in Software Engineering at PUC Minas, with an expected graduation in December 2027. Passionate about solving complex problems through programming, I have experience in back-end development, especially using Java and Spring Boot.</p>
 

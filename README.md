@@ -24,7 +24,7 @@
 ###
 
 <h2>📝 About me</h2>
-<p>👋 Hello, I'm Guilherme Gomes de Brites, a 19-year-old technology and innovation enthusiast. I am currently pursuing a Bachelor's degree in Computer Science at PUC Minas, with an expected graduation in December 2027. Passionate about solving complex problems through programming, I have experience in back-end development, especially using Java and Spring Boot.</p>
+<p>👋 Hello, I'm Guilherme Gomes de Brites, a 20-year-old technology and innovation enthusiast. I am currently pursuing a Bachelor's degree in Software Engineering at PUC Minas, with an expected graduation in December 2027. Passionate about solving complex problems through programming, I have experience in back-end development, especially using Java and Spring Boot.</p>
 
 <p>🌐 I work as a Back-End Development Intern at Inter in Belo Horizonte, and previously I was a developer at eduCAT Tecnologia. I am constantly looking for new challenges and opportunities to apply and expand my skills in REST APIs and other emerging technologies.</p>
 

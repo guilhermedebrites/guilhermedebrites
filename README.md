@@ -1,83 +1,96 @@
-<h1 align="center">Hi! My name is Guilherme Brites and I'm a developer, from Brazil. 👋</h1>
+<h1 align="center">Guilherme Brites</h1>
 
-###
+<p align="center">
+  <b>Backend Engineer</b> | Back-End Developer | Java | Go | C# | AWS
+</p>
 
-<div align="center">
-  <a href="https://www.instagram.com/debrites7_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  Building reliable production systems @ <b>Banco Inter</b> · Belo Horizonte, BR
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilhermedebrites/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin" />
   </a>
   <a href="mailto:guilhermedebrites1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/guilhermedebrites/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<h2>📝 About me</h2>
-<p>👋 Hello, I'm Guilherme Gomes de Brites, a 20-year-old technology and innovation enthusiast. I am currently pursuing a Bachelor's degree in Software Engineering at PUC Minas, with an expected graduation in December 2027. Passionate about solving complex problems through programming, I have experience in back-end development, especially using Java and Spring Boot.</p>
+## 👨‍💻 About
 
-<p>🌐 I work as a Back-End Development at Inter in Belo Horizonte, and previously I was a developer at eduCAT Tecnologia. I am constantly looking for new challenges and opportunities to apply and expand my skills in REST APIs and other emerging technologies.</p>
+🇺🇸 **EN**
+Backend developer at **Banco Inter** (Marketplace squad) and Software Engineering student at **PUC Minas** (graduating Dec 2027). I build **REST APIs in Java** with **Spring Boot** and **Micronaut**, integrating AWS services such as **S3, DynamoDB, SQS, SNS and EC2**. I also work with **infrastructure as code** (Terraform) and with **observability and troubleshooting** in production environments using **Kubernetes, K9s, New Relic, Kibana and ArgoCD**, always aiming to raise the reliability and operational efficiency of services.
 
-<p>📚 In addition to my practical experience, I hold several certifications in programming and web development, including Java, Spring Boot, Python, Django, JavaScript, Nodejs, and RESTful APIs. I am fluent in Portuguese and proficient in English, allowing me to collaborate in multicultural environments and broaden my professional horizons.</p>
+🇧🇷 **PT**
+Desenvolvedor backend no **Banco Inter** (squad de Marketplace) e estudante de Engenharia de Software na **PUC Minas** (formatura em dez/2027). Tenho experiência no desenvolvimento de **APIs REST em Java**, utilizando **Spring Boot** e **Micronaut**, além da integração com serviços AWS como **S3, DynamoDB, SQS, SNS e EC2**. Também atuo com **infraestrutura como código** (Terraform), **observabilidade e troubleshooting** em ambientes produtivos com **Kubernetes, K9s, New Relic, Kibana e ArgoCD**, sempre buscando elevar a confiabilidade e a eficiência operacional dos serviços.
 
-<p>🔍 I am excited about the possibilities that the future of technology holds and am determined to contribute to an increasingly innovative and interconnected world. Let's connect!</p>
+---
 
-###
+## 🛠️ Tech Stack
 
-<h2>Hard Skills</h2>
+**Languages**
 
-<p>🚀 BACK-END</p>
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-###
+**Backend**
 
-<p>☁ CLOUD</p>
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</div>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Micronaut](https://img.shields.io/badge/Micronaut-007FFF?style=for-the-badge&logo=micronaut&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-###
+**Cloud & IaC**
 
-<p>🚀 FRONT-END</p>
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-###
+**DevOps & Observability**
 
-<p>🔒 Security Platforms</p>
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
-###
+**Data & Messaging**
 
-###
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<p>💻 OS</p>
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div>
+**Auth & Tooling**
 
-###
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/guilhermedebrites/count.svg?"  />
-</div>
+---
+
+## 🚀 Featured Project
+
+### UpFit · Fitness Gamification Platform
+🇺🇸 An event-driven, microservices-based platform that gamifies running and strength training. Built to apply real backend architecture end to end: asynchronous event pipeline, dedicated auth service with JWT, and independently deployable services on AWS.
+
+🇧🇷 Plataforma de gamificação fitness (corrida e musculação) com arquitetura de microsserviços orientada a eventos. Construída para aplicar arquitetura backend de verdade de ponta a ponta: pipeline de eventos assíncrono, serviço de autenticação com JWT e serviços independentes na AWS.
+
+**Stack:** Java 21 · Spring Boot 3.x · AWS (SNS / SQS / S3) · PostgreSQL · Docker · Event-Driven Microservices
+
+➡️ <!-- replace with your UpFit repo URL --> [Repository](https://github.com/guilhermedebrites/UpFit)
+
+---
+
+## 🌱 Currently deepening
+
+Distributed transactions & **Saga pattern** · advanced **PostgreSQL** & query performance · high-performance Java (**Virtual Threads**, GC tuning) · scaling **event-driven** architectures.
+
+---
+
+<p align="center"><i>Open to backend challenges and collaboration · Aberto a desafios backend e colaborações</i></p>
